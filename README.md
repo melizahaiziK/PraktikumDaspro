@@ -17,3 +17,8 @@ jawaban : maka, program akan menampilkan "gagal! Mahasiswa masih memiliki tanggu
 2. Jelaskan maksud dari potongan kode berikut! if (bimbinganP1 >= 8 && bimbinganP2 >= 4) 
 jawaban : Nilai bimbinganP1 harus lebih besar atau sama dengan 8
 Nilai bimbinganP2 harus lebih besar atau sama dengan 4
+3. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? Jelaskan secara runtut untuk semua kondisi!
+jawaban : 
+-jika mahasiswa bebas dari kompen dan jumlah log bimbingan sudah terpenuhi atau memenuhi syarat maka mahasiswa boleh mendaftar ujian skripsi. 
+-Jika mahasiswa bebas dari kompen namun salah satu log bimbingan pembimbing masi kurang atau belum memenuhi syarat maka mahasiswa gagal untuk mendaftar ujian dikarenakan log bimbingan masih kurang.
+-Jika mahasiswa masih memiliki kompen namun jumlah log bimbingan pembimbing sudah terpenuhi atau memenuhi syarat maka mahasiswa tetap gagal untuk mendaftar ujian dikarenakan masih mempunyai tanggungan kompen.
