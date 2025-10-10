@@ -10,3 +10,7 @@ pertanyaan percobaan 2
 jawaban : Sintaks break digunakan untuk menghentikan eksekusi dari blok switch-case setelah menjalankan satu kasus case
 2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE?
 jawaban : Sintaks default berfungsi sebagai blok kode yang akan dijalankan jika tidak ada kasus (case) yang sesuai dengan nilai yang diuji dalam switch
+
+pertanyaan percobaan 3
+1. Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen? Mengapa demikian?
+jawaban : maka, program akan menampilkan "gagal! Mahasiswa masih memiliki tanggungan kompen" karna meskipun mahasiswa sudah memiliki log bimbingan namun mahasiswa masih harus memenuhi syarat untuk bisa ikut ujian, dan salah satunya adalah bebas dari kompen
