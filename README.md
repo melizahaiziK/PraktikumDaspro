@@ -14,3 +14,6 @@ jawaban : Sintaks default berfungsi sebagai blok kode yang akan dijalankan jika 
 pertanyaan percobaan 3
 1. Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen? Mengapa demikian?
 jawaban : maka, program akan menampilkan "gagal! Mahasiswa masih memiliki tanggungan kompen" karna meskipun mahasiswa sudah memiliki log bimbingan namun mahasiswa masih harus memenuhi syarat untuk bisa ikut ujian, dan salah satunya adalah bebas dari kompen
+2. Jelaskan maksud dari potongan kode berikut! if (bimbinganP1 >= 8 && bimbinganP2 >= 4) 
+jawaban : Nilai bimbinganP1 harus lebih besar atau sama dengan 8
+Nilai bimbinganP2 harus lebih besar atau sama dengan 4
