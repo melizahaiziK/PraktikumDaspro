@@ -1,3 +1,2 @@
-Ini fitur 1
-Ini fitur 3
-Ini baris baru yang ditambahkan di github
+1. Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan operator relasional? 
+jawaban : karena IF dapat memeriksa nilai kebenaran (boolean) dari suatu ekspresi atau variabel secara langsung
