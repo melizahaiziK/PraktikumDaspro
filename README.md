@@ -8,3 +8,5 @@ jawaban : program tidak mengeluarkan hasil apa apa
 pertanyaan percobaan 2
 1. Apa fungsi dari sintaks break?
 jawaban : Sintaks break digunakan untuk menghentikan eksekusi dari blok switch-case setelah menjalankan satu kasus case
+2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE?
+jawaban : Sintaks default berfungsi sebagai blok kode yang akan dijalankan jika tidak ada kasus (case) yang sesuai dengan nilai yang diuji dalam switch
